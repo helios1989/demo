@@ -1,4 +1,5 @@
-[
+{
+"expenses": [
   {
     "userId": "5e5b5e3d16e2aef88b86aca7",
     "dateSpent": 0,
@@ -70,3 +71,5 @@
     "withHoldingTaxRate": "9a352c99-50ab-4f0b-a1bb-880d15f0d9e8"
   }
 ]
+
+}
