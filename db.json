@@ -7,7 +7,7 @@
     "businessName": true,
     "expenseId": "a118193e-96f2-43c8-91ee-d8a8bbea7556",
     "total": "df6cca7f-14f1-4159-874d-66b364278b5f",
-    "status": "f01f25b0-9b8f-412b-a67d-1a650f0b9459",
+    "status": "Commited",
     "withHoldingTaxRate": "ff58c5bc-aa99-4c1a-ae9d-ab542d56dd36"
   },
   {
@@ -17,7 +17,7 @@
     "businessName": true,
     "expenseId": "f339d44b-bf92-4edd-a3a0-f01cc6d397b6",
     "total": "e01e172b-6a1d-45cc-bde8-1886088c5c8e",
-    "status": "d3f9829b-c516-47f5-93c6-691a16c8687e",
+    "status": "Commited",
     "withHoldingTaxRate": "5907f028-7740-45ea-b97f-c8209f2f8a5d"
   },
   {
