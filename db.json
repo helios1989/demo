@@ -70,6 +70,39 @@
     "status": "Ready",
     "withHoldingTaxRate": "9a352c99-50ab-4f0b-a1bb-880d15f0d9e8"
   }
-]
+],
+  "invoices": [{
+		"invoiceID": "a02N000000JCM9sIAH",
+		"candidateContactId": "003N000001evrAPIAY",
+		"name": "Marc Benioff",
+		"invoiceNumber": "015460",
+		"invoiceTo": "Not Available",
+		"totalBillableUnits": 0.0,
+		"totalAmount": 0,
+		"gstValue": 0,
+		"totalAmountAfterGST": 0,
+		"schedularPaymentTaxTotalAmount": 0,
+		"schedularPaymentTaxRate": 0,
+		"invoiceDate": "2020-01-31",
+		"totalPaid": 0,
+		"status": "Ready",
+		"recordType": "BGI"
+	}, {
+		"invoiceID": "a02N000000JCKjNIAX",
+		"candidateContactId": "003N000001evrAPIAY",
+		"name": "Marc Benioff",
+		"invoiceNumber": "015457",
+		"invoiceTo": "LPS New Zealand",
+		"totalBillableUnits": 0.0,
+		"totalAmount": 0,
+		"gstValue": 0,
+		"totalAmountAfterGST": 0,
+		"schedularPaymentTaxTotalAmount": 0,
+		"schedularPaymentTaxRate": 0,
+		"invoiceDate": "2020-01-31",
+		"totalPaid": 0,
+		"status": "ready",
+		"recordType": "BGI"
+	}]
 
 }
