@@ -71,28 +71,30 @@
       "withHoldingTaxRate": "9a352c99-50ab-4f0b-a1bb-880d15f0d9e8"
     }
   ],
-  "user-detail": {
-    "userId": "02b58be0-e2ae-4178-a684-038de32898f9",
-    "givenName": "givenName",
-    "familyName": "familyName",
-    "isBDOVerified": "isBDOVerified",
-    "email": "email",
-    "contractorType": "contractorType",
-    "traderType": "traderType",
-    "stNumName": "stNumName",
-    "suburb": "suburb",
-    "city": "city",
-    "dateOfBirth": "dateOfBirth",
-    "irdNumber": "irdNumber",
-    "prsnlGSTNmbr": "prsnlGSTNmbr",
-    "cmpnyGSTNmbr": "cmpnyGSTNmbr",
-    "regCmpnyNme": "regCmpnyNme",
-    "bnkAcctNmbr": "bnkAcctNmbr",
-    "cmpnyName": "cmpnyName",
-    "acctnt": "acctnt",
-    "accntntEmail": "accntntEmail",
-    "createdDate": "createdDate"
-  },
+  "user-detail": [
+    {
+      "userId": "02b58be0-e2ae-4178-a684-038de32898f9",
+      "givenName": "givenName",
+      "familyName": "familyName",
+      "isBDOVerified": "isBDOVerified",
+      "email": "email",
+      "contractorType": "contractorType",
+      "traderType": "traderType",
+      "stNumName": "stNumName",
+      "suburb": "suburb",
+      "city": "city",
+      "dateOfBirth": "dateOfBirth",
+      "irdNumber": "irdNumber",
+      "prsnlGSTNmbr": "prsnlGSTNmbr",
+      "cmpnyGSTNmbr": "cmpnyGSTNmbr",
+      "regCmpnyNme": "regCmpnyNme",
+      "bnkAcctNmbr": "bnkAcctNmbr",
+      "cmpnyName": "cmpnyName",
+      "acctnt": "acctnt",
+      "accntntEmail": "accntntEmail",
+      "createdDate": "createdDate"
+    }
+  ],
   "invoices": [
     {
       "invoiceID": "a02N000000JCM9sIAH",
