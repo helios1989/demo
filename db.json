@@ -1,110 +1,132 @@
 {
-"expenses": [
-  {
-    "userId": "5e5b5e3d16e2aef88b86aca7",
-    "dateSpent": 0,
-    "location": "674b368d-c60a-461d-a312-1f50767693ae",
-    "businessName": true,
-    "expenseId": "a118193e-96f2-43c8-91ee-d8a8bbea7556",
-    "total": "df6cca7f-14f1-4159-874d-66b364278b5f",
-    "status": "Commited",
-    "withHoldingTaxRate": "ff58c5bc-aa99-4c1a-ae9d-ab542d56dd36"
+  "expenses": [
+    {
+      "userId": "5e5b5e3d16e2aef88b86aca7",
+      "dateSpent": 0,
+      "location": "674b368d-c60a-461d-a312-1f50767693ae",
+      "businessName": true,
+      "expenseId": "a118193e-96f2-43c8-91ee-d8a8bbea7556",
+      "total": "df6cca7f-14f1-4159-874d-66b364278b5f",
+      "status": "Commited",
+      "withHoldingTaxRate": "ff58c5bc-aa99-4c1a-ae9d-ab542d56dd36"
+    },
+    {
+      "userId": "5e5b5e3dc7e408ccde444961",
+      "dateSpent": 1,
+      "location": "7437d9f5-0fe8-4aa2-ab03-bad20a1b50ae",
+      "businessName": true,
+      "expenseId": "f339d44b-bf92-4edd-a3a0-f01cc6d397b6",
+      "total": "e01e172b-6a1d-45cc-bde8-1886088c5c8e",
+      "status": "Commited",
+      "withHoldingTaxRate": "5907f028-7740-45ea-b97f-c8209f2f8a5d"
+    },
+    {
+      "userId": "5e5b5e3d01f82cfa4ebe3062",
+      "dateSpent": 2,
+      "location": "07d1a4a3-e373-48e7-ad32-8826bc1677fe",
+      "businessName": true,
+      "expenseId": "671e9b7c-7ca0-4011-8f6e-40a16c684eb5",
+      "total": "d4aa8e56-5411-4e7f-9571-f77acc0ba994",
+      "status": "Ready",
+      "withHoldingTaxRate": "8dcfce3f-b18c-4e16-b1ee-46029d282a00"
+    },
+    {
+      "userId": "5e5b5e3d2ba3d123b8b330d7",
+      "dateSpent": 3,
+      "location": "f3826126-2ea6-4e17-8ac1-65c93349350c",
+      "businessName": true,
+      "expenseId": "08a25ce0-26b7-4cf1-b751-b61b750f691b",
+      "total": "672a4ba1-82e6-47bf-90b7-7f80fe222918",
+      "status": "Submitted",
+      "withHoldingTaxRate": "31dfff99-56af-4797-a8f0-99a82d99e7ce"
+    },
+    {
+      "userId": "5e5b5e3ddf2028866e93383b",
+      "dateSpent": 4,
+      "location": "9f09b715-b511-4cf2-bbde-edf9410125fb",
+      "businessName": true,
+      "expenseId": "49eb52fa-6bf1-4f60-92e3-832e411dcefc",
+      "total": "a77f542a-02a9-411b-9bea-f351b650cbce",
+      "status": "Commited",
+      "withHoldingTaxRate": "1e150f92-4ea3-4cb4-a661-94bc719535f1"
+    },
+    {
+      "userId": "5e5b5e3d77e7526e271cb317",
+      "dateSpent": 5,
+      "location": "2c4752b2-53d8-490a-aaee-a1d74301c51f",
+      "businessName": false,
+      "expenseId": "5b55ec82-2d53-47bf-a004-292ab2d710e7",
+      "total": "c82c4c15-e5f8-4b94-9454-b6f512011d7e",
+      "status": "Blocked",
+      "withHoldingTaxRate": "a8a6d7f5-2412-4e47-8387-5bba9b2e6a92"
+    },
+    {
+      "userId": "5e5b5e3d23688ebcf9bc708d",
+      "dateSpent": 6,
+      "location": "d489419f-d318-45e4-a66a-1f0c4d465616",
+      "businessName": false,
+      "expenseId": "9eca3771-2e0f-4f3c-bfc7-6efa34e36bc9",
+      "total": "0ecb278c-092c-479d-b90a-640f04dc0745",
+      "status": "Ready",
+      "withHoldingTaxRate": "9a352c99-50ab-4f0b-a1bb-880d15f0d9e8"
+    }
+  ],
+  "user-detail": {
+    "userId": "02b58be0-e2ae-4178-a684-038de32898f9",
+    "givenName": "givenName",
+    "familyName": "familyName",
+    "isBDOVerified": "isBDOVerified",
+    "email": "email",
+    "contractorType": "contractorType",
+    "traderType": "traderType",
+    "stNumName": "stNumName",
+    "suburb": "suburb",
+    "city": "city",
+    "dateOfBirth": "dateOfBirth",
+    "irdNumber": "irdNumber",
+    "prsnlGSTNmbr": "prsnlGSTNmbr",
+    "cmpnyGSTNmbr": "cmpnyGSTNmbr",
+    "regCmpnyNme": "regCmpnyNme",
+    "bnkAcctNmbr": "bnkAcctNmbr",
+    "cmpnyName": "cmpnyName",
+    "acctnt": "acctnt",
+    "accntntEmail": "accntntEmail",
+    "createdDate": "createdDate"
   },
-  {
-    "userId": "5e5b5e3dc7e408ccde444961",
-    "dateSpent": 1,
-    "location": "7437d9f5-0fe8-4aa2-ab03-bad20a1b50ae",
-    "businessName": true,
-    "expenseId": "f339d44b-bf92-4edd-a3a0-f01cc6d397b6",
-    "total": "e01e172b-6a1d-45cc-bde8-1886088c5c8e",
-    "status": "Commited",
-    "withHoldingTaxRate": "5907f028-7740-45ea-b97f-c8209f2f8a5d"
-  },
-  {
-    "userId": "5e5b5e3d01f82cfa4ebe3062",
-    "dateSpent": 2,
-    "location": "07d1a4a3-e373-48e7-ad32-8826bc1677fe",
-    "businessName": true,
-    "expenseId": "671e9b7c-7ca0-4011-8f6e-40a16c684eb5",
-    "total": "d4aa8e56-5411-4e7f-9571-f77acc0ba994",
-    "status": "Ready",
-    "withHoldingTaxRate": "8dcfce3f-b18c-4e16-b1ee-46029d282a00"
-  },
-  {
-    "userId": "5e5b5e3d2ba3d123b8b330d7",
-    "dateSpent": 3,
-    "location": "f3826126-2ea6-4e17-8ac1-65c93349350c",
-    "businessName": true,
-    "expenseId": "08a25ce0-26b7-4cf1-b751-b61b750f691b",
-    "total": "672a4ba1-82e6-47bf-90b7-7f80fe222918",
-    "status": "Submitted",
-    "withHoldingTaxRate": "31dfff99-56af-4797-a8f0-99a82d99e7ce"
-  },
-  {
-    "userId": "5e5b5e3ddf2028866e93383b",
-    "dateSpent": 4,
-    "location": "9f09b715-b511-4cf2-bbde-edf9410125fb",
-    "businessName": true,
-    "expenseId": "49eb52fa-6bf1-4f60-92e3-832e411dcefc",
-    "total": "a77f542a-02a9-411b-9bea-f351b650cbce",
-    "status": "Commited",
-    "withHoldingTaxRate": "1e150f92-4ea3-4cb4-a661-94bc719535f1"
-  },
-  {
-    "userId": "5e5b5e3d77e7526e271cb317",
-    "dateSpent": 5,
-    "location": "2c4752b2-53d8-490a-aaee-a1d74301c51f",
-    "businessName": false,
-    "expenseId": "5b55ec82-2d53-47bf-a004-292ab2d710e7",
-    "total": "c82c4c15-e5f8-4b94-9454-b6f512011d7e",
-    "status": "Blocked",
-    "withHoldingTaxRate": "a8a6d7f5-2412-4e47-8387-5bba9b2e6a92"
-  },
-  {
-    "userId": "5e5b5e3d23688ebcf9bc708d",
-    "dateSpent": 6,
-    "location": "d489419f-d318-45e4-a66a-1f0c4d465616",
-    "businessName": false,
-    "expenseId": "9eca3771-2e0f-4f3c-bfc7-6efa34e36bc9",
-    "total": "0ecb278c-092c-479d-b90a-640f04dc0745",
-    "status": "Ready",
-    "withHoldingTaxRate": "9a352c99-50ab-4f0b-a1bb-880d15f0d9e8"
-  }
-],
-	
-"user-detail": 
-  "invoices": [{
-		"invoiceID": "a02N000000JCM9sIAH",
-		"candidateContactId": "003N000001evrAPIAY",
-		"name": "Marc Benioff",
-		"invoiceNumber": "015460",
-		"invoiceTo": "Not Available",
-		"totalBillableUnits": 0.0,
-		"totalAmount": 0,
-		"gstValue": 0,
-		"totalAmountAfterGST": 0,
-		"schedularPaymentTaxTotalAmount": 0,
-		"schedularPaymentTaxRate": 0,
-		"invoiceDate": "2020-01-31",
-		"totalPaid": 0,
-		"status": "Ready",
-		"recordType": "BGI"
-	}, {
-		"invoiceID": "a02N000000JCKjNIAX",
-		"candidateContactId": "003N000001evrAPIAY",
-		"name": "Marc Benioff",
-		"invoiceNumber": "015457",
-		"invoiceTo": "LPS New Zealand",
-		"totalBillableUnits": 0.0,
-		"totalAmount": 0,
-		"gstValue": 0,
-		"totalAmountAfterGST": 0,
-		"schedularPaymentTaxTotalAmount": 0,
-		"schedularPaymentTaxRate": 0,
-		"invoiceDate": "2020-01-31",
-		"totalPaid": 0,
-		"status": "ready",
-		"recordType": "BGI"
-	}]
-
+  "invoices": [
+    {
+      "invoiceID": "a02N000000JCM9sIAH",
+      "candidateContactId": "003N000001evrAPIAY",
+      "name": "Marc Benioff",
+      "invoiceNumber": "015460",
+      "invoiceTo": "Not Available",
+      "totalBillableUnits": 0,
+      "totalAmount": 0,
+      "gstValue": 0,
+      "totalAmountAfterGST": 0,
+      "schedularPaymentTaxTotalAmount": 0,
+      "schedularPaymentTaxRate": 0,
+      "invoiceDate": "2020-01-31",
+      "totalPaid": 0,
+      "status": "Ready",
+      "recordType": "BGI"
+    },
+    {
+      "invoiceID": "a02N000000JCKjNIAX",
+      "candidateContactId": "003N000001evrAPIAY",
+      "name": "Marc Benioff",
+      "invoiceNumber": "015457",
+      "invoiceTo": "LPS New Zealand",
+      "totalBillableUnits": 0,
+      "totalAmount": 0,
+      "gstValue": 0,
+      "totalAmountAfterGST": 0,
+      "schedularPaymentTaxTotalAmount": 0,
+      "schedularPaymentTaxRate": 0,
+      "invoiceDate": "2020-01-31",
+      "totalPaid": 0,
+      "status": "ready",
+      "recordType": "BGI"
+    }
+  ]
 }
