@@ -71,6 +71,8 @@
     "withHoldingTaxRate": "9a352c99-50ab-4f0b-a1bb-880d15f0d9e8"
   }
 ],
+	
+"user-detail": 
   "invoices": [{
 		"invoiceID": "a02N000000JCM9sIAH",
 		"candidateContactId": "003N000001evrAPIAY",
